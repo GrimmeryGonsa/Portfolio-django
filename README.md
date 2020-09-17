@@ -7,5 +7,6 @@ This project was created when i was learning Django <br/>
 - `cd portfolio`
 - `pip install django`
 - `pip install whitenoise`
+- `python manage.py runserver`
 
 # go to localhost:8000 to view the website
