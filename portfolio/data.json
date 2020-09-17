@@ -1,0 +1,15 @@
+{
+    "NAME":"Saumya Semwal",
+    "ABOUT_ME":" I am bla bla bla......\n will fill this place when i have some time to spare 😬 ",
+    "LANGUAGES":[
+        "C",
+        "Java",
+        "Python",
+        "HTML"
+    ],
+    "PROJECTS":[
+        ["filter-drama","Google","Who is Larry Page????"],
+        ["place","YouTube","I created that....."],
+        ["whatshot","Gmail","BRUH......"]
+    ]   
+}
